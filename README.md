@@ -1,1 +1,3 @@
 # pyPractice
+
+some Python notes
