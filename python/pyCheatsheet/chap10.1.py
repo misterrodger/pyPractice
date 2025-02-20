@@ -1,0 +1,5 @@
+def testFunc(**kwargs):
+  print(kwargs)
+
+testFunc(num1=1, num2=2)  # {'num1': 1, 'num2': 2}
+
